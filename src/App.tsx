@@ -7,7 +7,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>React Training</h1>
-        <DisplayName name="vishnu" />
+        <DisplayName />
       </div>
     );
   }
